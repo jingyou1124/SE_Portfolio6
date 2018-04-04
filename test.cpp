@@ -3,6 +3,7 @@ using namespace std;
 int main () 
 {
         int no1, no2, result,mul; 
+		cout<<"hello world"<<endl;
         cout << "\nEnter the first number = " ; 
         cin  >> no1 ;
         cout << "\nEnter the second number = " ;
